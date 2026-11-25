@@ -18,7 +18,7 @@
 
   <h2>Contacto</h2>
 
-  <a href="https://www.instagram.com/luis_manuelb27?jplx=d2V0MmRzbG1tZWVz">
+  <a href="https://www.instagram.com/luis_manuelb27?jplx=d2V0MmRzbG1tZWVz" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
   <a href="mailto:luismanuelbaldovinoperez@gmail.com">
