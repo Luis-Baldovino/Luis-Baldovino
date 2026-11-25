@@ -1,5 +1,8 @@
-## Hola, soy Luis Baldovino 👋
 <h1>Hola, soy Luis Baldovino</h1>
+
+<hr/>
+
+
 <!--
 **Luis-Baldovino/Luis-Baldovino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
