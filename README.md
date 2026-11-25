@@ -1,19 +1,28 @@
-<h1>Hola, soy Luis Baldovino</h1>
+<div align="center">
 
-<hr/>
+  <h1>Hola, soy Luis Baldovino 👋</h1>
 
+  <p>
+    Estudiante de Ingeniería de Sistemas, me gusta el desarrollo web y tengo
+    experiencia trabajando tanto en Frontend como en Backend. También he
+    desarrollado aplicaciones móviles y me interesa el análisis de datos,
+    área en la que he trabajado en algunos proyectos relacionados con
+    el procesamiento y la visualización de datos.
+  </p>
 
-<!--
-**Luis-Baldovino/Luis-Baldovino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <h2>Tecnologías y herramientas</h2>
 
-Here are some ideas to get you started:
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,react,php,py,postgres,supabase,nodejs,vite,git,github,npm,figma&perline=8" />
+  </a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <h2>Contacto</h2>
+
+  <a href="https://www.instagram.com/luis_manuelb27?jplx=d2V0MmRzbG1tZWVz">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  <a href="mailto:luismanuelbaldovinoperez@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+
+</div>
