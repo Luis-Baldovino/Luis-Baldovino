@@ -13,7 +13,7 @@
   <h2>Tecnologías y herramientas</h2>
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,react,php,py,postgres,supabase,nodejs,vite,git,github,npm,figma&perline=8" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,react,php,py,postgres,supabase,nodejs,vite,git,github,npm,figma" />
   </a>
 
   <h2>Contacto</h2>
